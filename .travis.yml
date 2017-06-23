@@ -1,0 +1,13 @@
+language: generic
+env:
+  global:
+    - SSH_KEY="travis_key"
+    - GIT_NAME="Josh Chase"
+    - GIT_EMAIL="josh@jec.pw"
+    - SOURCE_DIR="public"
+    - DEPLOY_BRANCH="hugo"
+script:
+  - "./bin/hugo"
+after_success:
+  - echo "blog.jec.pw" > ./public/CNAME
+    # - ./bin/deploy.sh
