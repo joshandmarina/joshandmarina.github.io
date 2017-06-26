@@ -1,4 +1,4 @@
-baseURL = "https://www.joshandmarina.wedding/"
+title = "Josh and Marina"
+baseURL = "https://www.joshandmarina.wedding"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hugo_theme_robust"
+theme = "kiss"
