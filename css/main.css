@@ -1,0 +1,85 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  font-size: 18pt;
+  overflow-x: hidden;
+  color:#ddd;
+  background-color:#282E34;
+}
+
+.parallax-container {
+  width: 100vw;
+  max-width: 100vw;
+  margin-left: calc(-1 * ((100vw - 100%) / 2));
+  margin-top: 5em;
+  margin-bottom: 5em;
+  padding: 0 0;
+  background-color: white;
+  position: relative;
+}
+
+.parallax {
+  opacity: 0.75;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text {
+  max-width: 60em;
+  margin: 0 auto;
+  padding: 0 10em;
+  text-align: left;
+}
+
+.light {
+  color: #777;
+  background-color: white;
+}
+
+.text h3 {
+  text-align: center;
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.caption .border {
+  background-color: #111;
+  color: #fff;
+  padding: 1em;
+  font-size: 25px;
+  letter-spacing: 10px;
+  display: inline-block;
+}
+
+* > :first-child { margin-top: 0 !important; }
+* > :last-child { margin-bottom: 0 !important; }
+
+.caption h3 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: #111;
+}
+
+@media only screen and (max-device-width: 1024px) {
+    /* Turn off parallax scrolling for tablets and phones */
+    .parallax {
+        background-attachment: scroll;
+    }
+
+    .text {
+        max-width: 100%;
+        padding: 0 5em;
+        margin: 0 0;
+    }
+}

@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.joshandmarina.wedding/categories/</loc>
-    <priority>0</priority>
+    <loc>https://www.joshandmarina.wedding/</loc>
+    <lastmod>2017-06-26T18:06:01-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.joshandmarina.wedding/</loc>
+    <loc>https://www.joshandmarina.wedding/about/</loc>
+    <lastmod>2017-06-26T17:55:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.joshandmarina.wedding/categories/</loc>
     <priority>0</priority>
   </url>
   
