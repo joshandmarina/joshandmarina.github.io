@@ -1,24 +1,5 @@
 {{ partial "header.html" .Site }}
 
-
-
-<div class="parallax">
-    <div class="parallax__layer parallax__layer--back">
-        <img src="/img/background.jpg"></img>
-    </div>
-    <div class="parallax__layer parallax__layer--base">
-        <div class="paper">
-            <section id="main">
-                <h1 id="title">{{ .Title }}</h1>
-                <article id="content">
-                    {{ .Content }}
-                </article>
-            </section>
-        </div>
-    </div>
-</div>
-
-
-
+<div class="text">{{ .Content }}</div>
 
 {{ partial "footer.html" . }}
