@@ -6,38 +6,41 @@ title = "index"
 
 {{% parallax img="/img/fieldwalk.jpg" height="100vh" %}}Josh and Marina{{% /parallax %}}
 
-# Iaculo sed sua equi debere adice
+# About Us
 
-## Fletus oris si Medusae
+Marina and Josh both went to Franklin County High School, though we didn't
+actually meet during our one-year overlap. Marina was a friend of Amelia, who
+introduced them, and they started dating in 2012. Marina was in her junior
+year of high school at the time, and Josh was in his sophomore year of
+college at the University of Louisville.
 
-Lorem markdownum *induit*, sub manus sed tepidi in superos mihi curae, rediere
-tibi turpe. Prunam est tales obstantis taedae, faterer in tela factis pudicos
-sacerdos Ianthen. Longae recessit, unum morata misit nate tellus telluris, rogem
-terras patrem acuta, Lavinia laboro dicite: humo. Functa chaos obituque qua
-abdita herba, in Phrygia vario: notis. Ubi tacuit hanc hunc et pharetrae et
-pudore revolet Marte.
+### A Change of Schools
 
-> Senior illi tempora cum modo, mater, quid cursus. Herbas sidus certa interea
-> et quid resolvit et inque tam.
+Marina's dream school had been the University of Southern California in LA
+for some time, so she was thrilled when she was accepted there.
+Unfortunately, this was going to require some time apart. Nevertheless, they
+decided to try to make it work, all the while concocting a plan to end the
+long-distance separation.
 
-Vertice [nullos](http://www.nos.io/quodinter.html): pater terrae iterum Iove?
-Autem gigantas sorores mihi.
+### A New Job
 
-## Ait arte
+After a long year and a half of long-distance, and numerous cross-country
+flights to visit, Josh graduated from U of L and found a job at a software
+security startup in LA and a little apartment across the street from the
+Staples Center. Piling everything he owned into his little Corolla, he
+trekked across the country, driving 30 hours in the move from Louisville to
+LA.
 
-Armentis capioque utentem, temptavit error, aquae liquido aliquis rauca.
-Caespite erat angustum! Cui ipse rapta animas, quam quod tamquam, moles fumabat
-cedentem in tenuere ursa iras. Inmanis tuumque novis ibat quicquam **o illic**
-amores causa tollite, nec spinea vultus regia, non aut paciscor? Moresque
-caedis, praecingitur septem servat, ille foramine dicunt easdem **peregit**,
-repulso numen, Isthmon.
+### Another Graduation
 
-1. Concidit ore
-2. Tandem circumvolat poma
-3. Quodque quoque
-
-[Fuit superant fuit](http://www.tellus.com/lugent). Tum Lenis **trepidans** si
-alto.
+In 2017, Marina graduated from USC with her sights set on Medical School at
+the University of Virginia. Once again, belongings were piled into a vehicle
+to embark on yet another cross-country drive. This time, however, a moving
+truck was required, and more stops along the way were planned. They drove the
+truck from LA to Frankfort, KY, and then to Charlottesville, Virginia,
+stopping at five national parks along the way. They now reside in
+Charlottesville where Marina is a Med student and Josh works from home at the
+same job he got when moving to LA.
 
 {{% parallax img="/img/tinyfieldtrees-cropped.jpg" height="1000px" %}}Ceremony{{% /parallax %}}
 
