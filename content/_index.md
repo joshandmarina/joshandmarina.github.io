@@ -8,7 +8,7 @@ title = "index"
 
 # About Us
 
-Marina and Josh both went to Franklin County High School, though we didn't
+Marina and Josh both went to Franklin County High School, though they didn't
 actually meet during our one-year overlap. Marina was a friend of Amelia, who
 introduced them, and they started dating in 2012. Marina was in her junior
 year of high school at the time, and Josh was in his sophomore year of
