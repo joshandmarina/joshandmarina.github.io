@@ -115,6 +115,6 @@ Just pull up in front of the venue, and they should take it from there.
 
 Marina and Josh both eat a diet of seafood and vegetebles, so expect an
 assortment of delicious fish, shrimp, and vegetarian cocktail-style dishes
-and small plates!
+and small plates, along with an open bar.
 
 {{% parallax img="/img/crawfish.jpg" height="600px" %}}Thanks!{{% /parallax %}}
