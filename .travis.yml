@@ -7,6 +7,7 @@ env:
     - SOURCE_DIR="public"
     - DEPLOY_BRANCH="hugo"
 script:
+  - ./bin/hugo version
   - ./bin/hugo
 after_success:
   - echo "www.joshandmarina.wedding" > ./public/CNAME

@@ -8,6 +8,9 @@
     "windows": {
         "command": "bin\\hugo.exe"
     },
+    "osx": {
+        "command": "./bin/hugo.osx"
+    },
     "isShellCommand": true,
     "showOutput": "always",
     "tasks": [
