@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,400,500|Open+Sans|Pinyon+Script');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,400,500|Yrsa:300,400,500');
 html {
   -webkit-overflow-scrolling: touch;
 }
@@ -6,7 +6,8 @@ html {
 body, html {
   height: 100%;
   margin: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Yrsa', serif;
+  font-weight: 300;
   font-size: 18pt;
   overflow-x: hidden;
   background-color:#252025;
@@ -86,9 +87,13 @@ h1, h2, h3, h4, h5, h6 {
         background-attachment: scroll;
     }
 
+    body, html {
+      font-size: 31pt;
+    }
+
     .text {
         max-width: 100%;
-        padding: 0 5em;
+        padding: 0 2em;
         margin: 0 0;
     }
 }
