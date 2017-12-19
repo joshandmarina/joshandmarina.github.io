@@ -38,9 +38,13 @@ the apartment.
 
 {{% parallax img="/img/tinyfieldtrees-cropped.jpg" height="1000px" %}}Ceremony{{% /parallax %}}
 
-# Church
+# Ceremony
 
-The ceremony will be held on Saturday, July 14, 2018 at St. Peter's Catholic Church in Lexington, KY.
+The ceremony will be held on Saturday, July 14, 2018 at
+
+St. Peter Catholic Church \
+125 Barr Street \
+Lexington KY 40507
 
 ## Directions
 
@@ -54,9 +58,9 @@ Valet parking will be provided at the reception venue and guests are welcome to 
 
 # Reception Venue
 
-The reception will be held at The Apiary in Lexington, KY.
-
-## Directions
+Apiary Fine Catering and Events \
+218 Jefferson Street \
+Lexington KY 40508
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3141.700732538732!2d-84.5018726850924!3d38.05405897970958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884244f318f22db7%3A0xac266a8727e41325!2sApiary+Catering+%26+Events!5e0!3m2!1sen!2sus!4v1513541571839" width="600" height="450" frameborder="0" style="border:0; display: block; margin: 0 auto;" allowfullscreen></iframe>
 
@@ -73,13 +77,24 @@ nebulas, fecit? Cymeli Pulydamanta pudori plura postquam quo iaculum, vernat.
 
 ## Parking
 
-Parking will be provided by a free valet service, courtesy of The Apiary.
-Just pull up in front of the venue, and they should take it from there.
+Valet parking will be provided - gratuities have been covered!
 
 ## Cuisine
 
-Marina and Josh both eat a diet of seafood and vegetebles, so expect an
-assortment of delicious fish, shrimp, and vegetarian cocktail-style dishes
+Marina and Josh eat a diet of seafood and vegetebles, so you can expect an
+assortment of delicious fish and vegetarian cocktail-style dishes
 and small plates, along with an open bar.
+
+{{% parallax img="/img/darktreehug.jpg" height="800px" %}}Accommodations{{% /parallax %}}
+
+Hilton Downtown Lexington \
+369 West Vine Street \
+Lexington KY 40507
+
+[Reserve a room here](http://www.hilton.com/en/hi/groups/personalized/L/LEXDTHF-ROBCHA-20180713/index.jhtml?WT.mc_id=POG)
+
+
+{{% parallax img="/img/darktreehug.jpg" height="800px" %}}Registeries{{% /parallax %}}
+
 
 {{% parallax img="/img/crawfish.jpg" height="600px" %}}Thanks!{{% /parallax %}}
