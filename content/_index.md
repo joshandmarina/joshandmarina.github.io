@@ -84,6 +84,6 @@ Lexington KY 40507
 
 {{% parallax img="/img/darktreehug.jpg" height="800px" %}}Registries{{% /parallax %}}
 
-Marina and Josh have registries at [Williams Sonoma](https://www.williams-sonoma.com/registry/jbz6cghzth/registry-list.html) and [Zola](https://www.zola.com/registry/josh-and-marina).
+Marina and Josh have a registry at [Williams Sonoma](https://www.williams-sonoma.com/registry/jbz6cghzth/registry-list.html).
 
 {{% parallax img="/img/crawfish.jpg" height="600px" %}}Thanks!{{% /parallax %}}
