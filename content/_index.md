@@ -51,8 +51,8 @@ Lexington KY 40507
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d400530.60664174694!2d-85.12301807658032!3d38.345617417247155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884244eedc8f1ba1%3A0xaa712835f2be5a3c!2sSt+Peter+Catholic+Church!5e0!3m2!1sen!2sus!4v1513542222398" width="600" height="450" frameborder="0" style="border:0; display:block; margin:0 auto;" allowfullscreen></iframe>
 
 ## Parking
-Valet parking will be provided at the reception venue and guests are welcome to walk two blocks between
 
+[Valet parking](#parking-1) will be provided at the reception venue and guests are welcome to walk two blocks between.
 
 {{% parallax img="/img/darktreehug.jpg" height="800px" %}}Reception{{% /parallax %}}
 
@@ -63,17 +63,6 @@ Apiary Fine Catering and Events \
 Lexington KY 40508
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3141.700732538732!2d-84.5018726850924!3d38.05405897970958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884244f318f22db7%3A0xac266a8727e41325!2sApiary+Catering+%26+Events!5e0!3m2!1sen!2sus!4v1513541571839" width="600" height="450" frameborder="0" style="border:0; display: block; margin: 0 auto;" allowfullscreen></iframe>
-
-Lorem markdownum, conataque illic ad timendi denique exclamat ferventibus forma
-nebulas, fecit? Cymeli Pulydamanta pudori plura postquam quo iaculum, vernat.
-
-> O est, sustulit hederarum fugisse manent [alii
-> ferum](http://www.funeraparatur.io/in) moles ignorat in iubis forsitan mea
-> levati; cum caluere servat? Ceris Sardibus fretoque; res cumulum: tot: quoque
-> destituit fontis sors. Loqui iniqui pavet corpora, nec capillos *dictis*: sinu
-> supplex modo quid attraxerat iuveni mecum corpore inhospita caecaque: adversi.
-> Scythiam fuerat adire sola cum sanguine *fluctus* iacentem coniunx, id et
-> lucum nomina, herbis.
 
 ## Parking
 
@@ -93,8 +82,6 @@ Lexington KY 40507
 
 [Reserve a room here](http://www.hilton.com/en/hi/groups/personalized/L/LEXDTHF-ROBCHA-20180713/index.jhtml?WT.mc_id=POG)
 
-
-{{% parallax img="/img/darktreehug.jpg" height="800px" %}}Registeries{{% /parallax %}}
-
+{{% parallax img="/img/darktreehug.jpg" height="800px" %}}Registries{{% /parallax %}}
 
 {{% parallax img="/img/crawfish.jpg" height="600px" %}}Thanks!{{% /parallax %}}
