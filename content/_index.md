@@ -8,21 +8,23 @@ title = "index"
 
 # Our Story
 
-Marina and Josh grew up in Frankfort, Kentucky and attended the same high school, though they didn't
-actually meet during their one-year overlap there. Amelia, Josh's sister and Marina's friend, 
-introduced them, and they started dating in 2012. They bonded over their love of music, dogs, 
-and sushi. Their love stood the test of time and distance, from the early days when Josh attended
-the University of Louisville and Marina went to high school in Frankfort, to their time apart when
-Marina moved to Los Angeles to study at the University of Southern California. 
+Marina and Josh grew up in Frankfort, Kentucky and attended the same high
+school, though they didn't actually meet during their one-year overlap there.
+Amelia, Josh's sister and Marina's friend, introduced them, and they started
+dating in 2012. They bonded over their love of music, dogs, and sushi. Their
+love stood the test of time and distance, from the early days when Josh
+attended the University of Louisville and Marina went to high school in
+Frankfort, to their time apart when Marina moved to Los Angeles to study at
+the University of Southern California.
 
-Upon graduation, Josh moved to LA and accepted a job at a small software security startup, finally
-ending the distance between the two after a year and a half. In 2015, Josh adopted Max, an energetic 
-and cuddly small white poodle, from the local animal shelter. Marina quickly grew to love her new
-"study buddy" and they have been inseparable ever since... Max has even learned to fly on the plane!
+Upon graduation, Josh moved to LA and accepted a job at a small software
+security startup, finally ending the distance between the two after a year
+and a half. In 2015, Josh adopted Max, an energetic and cuddly small white
+poodle, from the local animal shelter. Marina quickly grew to love her new
+"study buddy" and they have been inseparable ever since... Max has even
+learned to fly on the plane!
 
 ![Max](/img/max.jpg)
-
-### Another Graduation and Engagement
 
 In 2017, Marina graduated from USC with her sights set on Medical School at
 the University of Virginia. During their post-graduation vacation to the
