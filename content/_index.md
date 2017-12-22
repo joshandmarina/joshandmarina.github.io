@@ -52,9 +52,9 @@ Lexington KY 40507
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d400530.60664174694!2d-85.12301807658032!3d38.345617417247155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884244eedc8f1ba1%3A0xaa712835f2be5a3c!2sSt+Peter+Catholic+Church!5e0!3m2!1sen!2sus!4v1513542222398" width="600" height="450" frameborder="0" style="border:0; display:block; margin:0 auto;" allowfullscreen></iframe>
 
-## Parking
+<!-- ## Parking
 
-[Valet parking](#parking-1) will be provided at the reception venue and guests are welcome to walk two blocks between.
+[Valet parking](#parking-1) will be provided at the reception venue and guests are welcome to walk two blocks between. -->
 
 {{% parallax img="/img/darktreehug.jpg" height="800px" %}}Reception{{% /parallax %}}
 
