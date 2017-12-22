@@ -74,7 +74,7 @@ Marina and Josh eat a diet of seafood and vegetebles, so you can expect an
 assortment of delicious fish and vegetarian cocktail-style dishes
 and small plates, along with an open bar.
 
-{{% parallax img="/img/darktreehug.jpg" height="800px" %}}Accommodations{{% /parallax %}}
+{{% parallax img="/img/throughleaves.jpg" height="800px" %}}Accommodations{{% /parallax %}}
 
 Hilton Downtown Lexington \
 369 West Vine Street \
@@ -82,8 +82,11 @@ Lexington KY 40507
 
 [Reserve a room here](http://www.hilton.com/en/hi/groups/personalized/L/LEXDTHF-ROBCHA-20180713/index.jhtml?WT.mc_id=POG)
 
-{{% parallax img="/img/darktreehug.jpg" height="800px" %}}Registries{{% /parallax %}}
+{{% parallax img="/img/lookback.jpg" height="800px" %}}Registries{{% /parallax %}}
 
-Marina and Josh have a registry at [Williams Sonoma](https://www.williams-sonoma.com/registry/jbz6cghzth/registry-list.html).
+Marina and Josh have registries at
+[Williams Sonoma](https://www.williams-sonoma.com/registry/jbz6cghzth/registry-list.html),
+[West Elm](https://www.westelm.com/registry/frkchw2d66/registry-list.html), and
+[Amazon](https://www.amazon.com/wedding/marina-robson-joshua-chase-lexington-july-2018/registry/SY9UCGQSRRI8).
 
 {{% parallax img="/img/crawfish.jpg" height="600px" %}}Thanks!{{% /parallax %}}
