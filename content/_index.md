@@ -20,7 +20,7 @@ ending the distance between the two after a year and a half. In 2015, Josh adopt
 and cuddly small white poodle, from the local animal shelter. Marina quickly grew to love her new
 "study buddy" and they have been inseparable ever since... Max has even learned to fly on the plane!
 
-*insert picture of max here*
+![Max](/img/max.jpg)
 
 ### Another Graduation and Engagement
 
@@ -89,4 +89,4 @@ Marina and Josh have registries at
 [West Elm](https://www.westelm.com/registry/frkchw2d66/registry-list.html), and
 [Amazon](https://www.amazon.com/wedding/marina-robson-joshua-chase-lexington-july-2018/registry/SY9UCGQSRRI8).
 
-{{% parallax img="/img/crawfish.jpg" height="600px" %}}Thanks!{{% /parallax %}}
+{{% parallax img="/img/crawdad.jpg" height="600px" %}}Thanks!{{% /parallax %}}
