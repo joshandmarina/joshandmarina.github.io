@@ -88,7 +88,8 @@ Lexington KY 40507
 
 Marina and Josh have registries at
 [Williams Sonoma](https://www.williams-sonoma.com/registry/jbz6cghzth/registry-list.html),
-[West Elm](https://www.westelm.com/registry/frkchw2d66/registry-list.html), and
-[Amazon](https://www.amazon.com/wedding/marina-robson-joshua-chase-lexington-july-2018/registry/SY9UCGQSRRI8).
+[West Elm](https://www.westelm.com/registry/frkchw2d66/registry-list.html),
+[Amazon](https://www.amazon.com/wedding/marina-robson-joshua-chase-lexington-july-2018/registry/SY9UCGQSRRI8), and
+[Crate & Barrel](https://www.crateandbarrel.com/gift-registry/marina-robson-and-josh-chase/r5796522).
 
 {{% parallax img="/img/crawdad.jpg" height="600px" %}}Thanks!{{% /parallax %}}
