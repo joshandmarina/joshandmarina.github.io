@@ -12,6 +12,10 @@ body, html {
   background-color:#252025;
 }
 
+img[alt=Max] {
+  width: 50%;
+}
+
 a {
   color:#ccc;
 }
