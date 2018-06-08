@@ -72,7 +72,7 @@ Valet parking will be provided - gratuities have been covered!
 
 ## Cuisine
 
-Marina and Josh eat a diet of seafood and vegetebles, so you can expect an
+Marina and Josh eat a diet of seafood and vegetables, so you can expect an
 assortment of delicious fish and vegetarian cocktail-style dishes
 and small plates, along with an open bar.
 
